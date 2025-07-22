@@ -2,7 +2,7 @@
 
 This project explores bike-sharing trends in London using a publicly available dataset. The goal was to analyze how factors like temperature, season, humidity, and wind speed affect bike usage across different times and conditions.
 
-## 📊 Key Questions Explored
+## 📊 Key Questions Explored 
 - What season sees the highest bike share count? 
 - Does temperature affect the number of bike shares?
 - How do weather conditions like humidity and wind speed influence rides?
