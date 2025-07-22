@@ -5,7 +5,7 @@ This project explores bike-sharing trends in London using a publicly available d
 ## 📊 Key Questions Explored 
 - What season sees the highest bike share count? 
 - Does temperature affect the number of bike shares?
-- How do weather conditions like humidity and wind speed influence rides?
+- How do weather conditions like humidity and wind speed influence rides? 
 
 ## 🔧 Tools Used
 - Python: pandas, NumPy, matplotlib
